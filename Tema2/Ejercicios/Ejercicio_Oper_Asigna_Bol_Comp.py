@@ -1,6 +1,10 @@
+#Luis Enrique Lopez Zamora
+
+#Definicion de variables
 palabra1 ="vaca"
 palabra2 = "perro" 
 
+#funcion
 def comparar_longitud (palabra1,palabra2):
     longitud1 = len(palabra1)
     longitud2 = len(palabra2)
